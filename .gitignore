@@ -1,0 +1,9 @@
+# UiPath local state and generated output
+.local/
+.settings/
+.storage/
+.tmh/
+.project/
+
+# Export archive; source files are tracked separately
+Sem-End.zip
